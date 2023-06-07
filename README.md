@@ -1,2 +1,2 @@
-# COSC345-
+# COSC345
 Full year project
